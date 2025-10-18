@@ -2,7 +2,8 @@
 
 This project is a **fully local Retrieval-Augmented Generation (RAG)** chatbot that allows you to **upload a PDF** and **ask questions** about its content — all running **offline** on your system.
 
-It uses **LangChain** for retrieval, **FAISS** for vector search, and **Ollama** to run **local LLMs** like `qwen3`, `mistral`, or `llama3` — ensuring **data privacy** and **zero cloud dependency**.
+It uses **LangChain** for retrieval, **FAISS** for vector search, and **Ollama** to run **local LLMs** like `qwen3`, `mistral`, or `llama3` — ensuring **data privacy** and **zero cloud dependency**
+
 
 <img width="1920" height="1020" alt="Screenshot 2025-10-18 142649" src="https://github.com/user-attachments/assets/4fe985f4-96f9-4a7e-89c3-c1106c455242" />
 
