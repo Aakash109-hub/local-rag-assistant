@@ -7,6 +7,8 @@ It uses **LangChain** for retrieval, **FAISS** for vector search, and **Ollama**
 
 <img width="1920" height="1020" alt="Screenshot 2025-10-18 142649" src="https://github.com/user-attachments/assets/4fe985f4-96f9-4a7e-89c3-c1106c455242" />
 
+For demo visit us [Local RAG PDF](https://youtu.be/s8MV6btrKUI)
+
 
 ---
 
